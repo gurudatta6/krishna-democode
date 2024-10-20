@@ -1,4 +1,7 @@
-# krishna-democode
-This is my first Git repository.
-<br>
-Author-Krishna
+public class Krishna-democode
+{
+      public static void main(String[]args)
+    {
+          System.out.println("HELLO WORLD");
+    }
+}
